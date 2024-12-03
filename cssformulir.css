@@ -1,0 +1,57 @@
+body{
+    background-image: url(c:/Users/Admin/Downloads/Web-Desain-SMK-1.webp);
+    
+}
+div{
+    position: absolute;
+    width: 75%;
+    height: 80%;
+    background-color: rgba(248, 248, 248, 0.637);
+    box-shadow: rgb(69, 64, 64) 5px 5px 5px;
+    border-radius: 25px;
+    top: 15%;
+    left: 10%;
+    z-index: -1;
+}
+table{
+    position: absolute;
+    margin-left: 15%;
+    margin-top: 2%;
+}
+.type{
+    font-size: 150%;
+    font-weight: bold;
+    padding-right: 150px;
+}
+.type2{
+    font-size: 150%;
+    font-weight: bold;
+    padding-right: 240px;
+}.type3{
+    font-size: 150%;
+    font-weight: bold;
+    padding-right: 180px;
+}.type4{
+    font-size: 150%;
+    font-weight: bold;
+    padding-right: 200px;
+}
+p{
+    font-size: 30px;
+    margin-left: 13%;
+    margin-top: 5%;
+    font-weight: bolder;
+}
+input{
+    height: 30px;
+    border-radius: 15px;
+    margin-left: 15px;
+}
+.underline{
+    width: 400px;
+    height: 2px;
+    color: black;
+    background-color: black;
+    margin-top: 4%;
+    margin-left: 60px;
+}
